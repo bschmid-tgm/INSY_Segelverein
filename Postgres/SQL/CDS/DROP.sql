@@ -1,0 +1,13 @@
+DROP TABLE erziehlt;
+DROP TABLE nimmt_teil;
+DROP TABLE zugewiesen;
+DROP TABLE bildet;
+DROP TABLE wellfahrt;
+DROP TABLE regatta;
+DROP TABLE mannschaft;
+DROP TABLE sportboot;
+DROP TABLE tourenboot;
+DROP TABLE boot;
+DROP TABLE trainer;
+DROP TABLE segler;
+DROP TABLE person;
